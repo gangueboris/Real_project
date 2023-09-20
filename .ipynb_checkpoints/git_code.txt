@@ -1,0 +1,28 @@
+Comment faire envoyer des données sur Github ?
+
+1- Creer un clone sur son pc :
+git clone https://github.com/gangueboris/Real_project.git                 ( c'est le lien de mon répertoire )
+
+
+2- Ajouter tout les fichiers , documents importants just en bas du dossier git
+ git add . ou git add (nom_du_dossier)
+
+3- Faire un commit 
+ git commit -m "message"
+
+4-Faire un git push
+git push -u origin master
+
+*****Commandes utiles******* 
+git status 
+
+ls : lister
+
+mkdir : creer un dossier 
+
+cd (nom_du_dossier) : entrer dans un dossier
+
+cd .. : sortir du dossier
+
+
+
